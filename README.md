@@ -2,7 +2,7 @@
 
 This project demonstrates various steps in the machine learning workflow, including data preprocessing, model training, model tracking, serialization, creating REST APIs, containerization, and consumption.
 
-For live version please check : https://https-github-com-hassanoubrahim-review-classificatio-li00h9jld.vercel.app/examflask/predict
+For live version please check : https://https-github-com-hassanoubrahim-revie-git-868965-hassanoubrahim.vercel.app/examflask/predict
 ## Project Overview
 
 - Start by preprocessing your data.
