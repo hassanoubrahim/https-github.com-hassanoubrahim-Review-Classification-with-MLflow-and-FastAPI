@@ -21,6 +21,9 @@ in our case it is very that the 3rd model(Logistic Regression) perform better wi
 - Create a REST API for your model.
 - Using the serialized files.
 - Package your model as a container using Docker.
+  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180231029504622622/image.png?ex=657caacd&is=656a35cd&hm=e79ed82fcc99997cc0260c72084fb5a795501fc9c814fcea50f96822f47d4506&=&format=webp&quality=lossless&width=1420&height=640)
+  Once the application we can run it using docker container
+  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180246625210351677/image.png?ex=657cb953&is=656a4453&hm=87e106a18e0e26c300671e3f837a87c76a5beafe59342f8652b14b0574575a0a&=&format=webp&quality=lossless&width=1261&height=640)
 - Consume your created APIs using Curl.
 
 ### Using Flask
