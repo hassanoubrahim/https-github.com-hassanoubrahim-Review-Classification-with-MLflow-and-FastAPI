@@ -21,11 +21,12 @@ in our case it is very that the 3rd model(Logistic Regression) perform better wi
 - Create a REST API for your model.
 - Using the serialized files.
 - Package your model as a container using Docker.
-  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180231029504622622/image.png?ex=657caacd&is=656a35cd&hm=e79ed82fcc99997cc0260c72084fb5a795501fc9c814fcea50f96822f47d4506&=&format=webp&quality=lossless&width=1420&height=640)
+  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180275641703219211/Screenshot_from_2023-12-01_20-36-34.png?ex=657cd459&is=656a5f59&hm=4985e187197c0d74440b286b4f9637e3581cfa887b5bf4d292238c530c93d9aa&=&format=webp&quality=lossless&width=1420&height=640)
   Once the application is built we can run it using docker container
-  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180246625210351677/image.png?ex=657cb953&is=656a4453&hm=87e106a18e0e26c300671e3f837a87c76a5beafe59342f8652b14b0574575a0a&=&format=webp&quality=lossless&width=1261&height=640)
+  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180275641346707588/Screenshot_from_2023-12-01_21-38-28.png?ex=657cd459&is=656a5f59&hm=1ddcd7f75e6ad5d41983ed24679db0d9e3f4ecf009776183b25622b3265a7b66&=&format=webp&quality=lossless&width=1261&height=640)
   now connect to http://127.0.0.1:5000 
 - Consume your created APIs using Curl.
+  ![image](https://media.discordapp.net/attachments/1179056718064386200/1180275193122394183/image.png?ex=657cd3ee&is=656a5eee&hm=415376d721f72fe7e85ff48ecaa5291d8c674d4742e68551c8596ad7627771ad&=&format=webp&quality=lossless&width=1440&height=278)
 
 ### Using Flask
 
