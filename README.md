@@ -12,7 +12,7 @@ For live version please check : https://https-github-com-hassanoubrahim-revie-gi
   run `mlflow ui`
 - ![Image Description](https://media.discordapp.net/attachments/1179056718064386200/1179056738197049354/image.png?ex=65786528&is=6565f028&hm=6af80c7ef9f366517c3d85cb9216725e799fe46700f27549aceff58bacb18310&=&format=webp&width=947&height=499)
 in our case it is very that the 3rd model(Logistic Regression) perform better with an accuracy of 0.90, therefore we will use for the rest of this lab
-- Save your best model in ONNX format and its dedicated preprocessing transformations in pickle format (i.e., using transformers API).
+- Save our best model in ONNX format and its dedicated preprocessing transformations in pickle format (i.e., using transformers API).
 
 ## Usage
 
@@ -44,12 +44,9 @@ in our case it is very that the 3rd model(Logistic Regression) perform better wi
 you can run FastApi application using 
   - python3 fast-api.py
 or you can choose Flask application using
-  - python3 flask-app.py
+  - python3 api/app.py
 
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
